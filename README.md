@@ -1,4 +1,10 @@
-### Hi there 👋
+<!--### Hi there, I'm Ksenia 👋
+4th year student of applied mathematics and informatics student, beginner data scientist from Volgograd, Russia-->
+
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ksenia</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">4th year student of applied mathematics and informatics student, beginner data scientist from Volgograd, Russia</h3>
+
 
 <!--
 **AnUuema/AnUuema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
