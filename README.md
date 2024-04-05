@@ -1,5 +1,5 @@
 <!--### Hi there, I'm Ksenia 👋
-4th year student of applied mathematics and informatics student, beginner data scientist from Volgograd, Russia-->
+4th year student of CS, beginner system analyst from Volgograd, Russia-->
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ksenia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
