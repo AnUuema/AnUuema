@@ -2,7 +2,7 @@
 4th year student of CS, beginner system analyst from Volgograd, Russia-->
 
 <h1 align="center"> <a href="https://daniilshat.ru/" target="_blank">Ksenia Polusmackova</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <h3 align="center">4th year student of CS, sistem analyst from Volgograd, Russia</h3>
 
 
