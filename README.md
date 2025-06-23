@@ -28,4 +28,5 @@ Just a mix of my name, nothing fancy :)
 ---
 
 Feel free to check out my projects and give some review, I'm still learning
-I try to keep things clean and improve step by step.
+
+I try to keep things clean and improve step by step
